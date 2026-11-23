@@ -1,0 +1,267 @@
+TY  - BOOK
+AU  - Silberschatz, Abraham
+AU  - Galvin, Peter B.
+AU  - Gagne, Greg
+TI  - Operating System Concepts
+ET  - 10th ed.
+PB  - Wiley
+PY  - 2018
+ER  -
+
+TY  - BOOK
+AU  - Tanenbaum, Andrew S.
+AU  - Bos, Herbert
+TI  - Modern Operating Systems
+ET  - 4th ed.
+PB  - Pearson
+PY  - 2015
+ER  -
+
+TY  - BOOK
+AU  - Arpaci-Dusseau, Remzi H.
+AU  - Arpaci-Dusseau, Andrea C.
+TI  - Operating Systems: Three Easy Pieces
+PB  - Arpaci-Dusseau Books
+PY  - 2018
+UR  - https://pages.cs.wisc.edu/~remzi/OSTEP/
+ER  -
+
+TY  - CONF
+AU  - Baumann, Andrew
+AU  - Appavoo, Jonathan
+AU  - Krieger, Orran
+AU  - Roscoe, Timothy
+TI  - A fork() in the road
+T2  - Proceedings of the Workshop on Hot Topics in Operating Systems (HotOS)
+PY  - 2019
+DO  - 10.1145/3317550.3321435
+UR  - https://doi.org/10.1145/3317550.3321435
+L1  - S:\Works\Projects\os-process-vs-thread\papers\baumann-2019-fork-in-the-road.pdf
+ER  -
+
+TY  - CONF
+AU  - Ousterhout, John
+TI  - Why threads are a bad idea (for most purposes)
+T2  - USENIX Annual Technical Conference (invited talk)
+PY  - 1996
+UR  - https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf
+L1  - S:\Works\Projects\os-process-vs-thread\papers\ousterhout-1996-threads-bad-idea.pdf
+ER  -
+
+TY  - RPRT
+AU  - Drepper, Ulrich
+AU  - Molnar, Ingo
+TI  - The Native POSIX Thread Library for Linux
+PB  - Red Hat, Inc.
+PY  - 2003
+L1  - S:\Works\Projects\os-process-vs-thread\papers\drepper-molnar-2003-nptl.pdf
+ER  -
+
+TY  - CHAP
+AU  - Sysel, Martin
+TI  - A comparison of processes and threads creation
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1294
+SP  - 990
+EP  - 997
+PB  - Springer
+PY  - 2020
+DO  - 10.1007/978-3-030-63322-6_85
+UR  - https://doi.org/10.1007/978-3-030-63322-6_85
+ER  -
+
+TY  - CONF
+AU  - Beazley, David
+TI  - Understanding the Python GIL
+T2  - PyCon 2010
+PY  - 2010
+UR  - https://dabeaz.com/GIL
+ER  -
+
+TY  - ELEC
+AU  - Gross, Sam
+TI  - PEP 703 - Making the Global Interpreter Lock Optional in CPython
+T2  - Python Enhancement Proposals
+PY  - 2023
+UR  - https://peps.python.org/pep-0703/
+ER  -
+
+TY  - CONF
+AU  - Li, Chuanpeng
+AU  - Ding, Chen
+AU  - Shen, Kai
+TI  - Quantifying the cost of context switch
+T2  - ACM Workshop on Experimental Computer Science (ExpCS)
+PY  - 2007
+L1  - S:\Works\Projects\os-process-vs-thread\papers\li-2007-context-switch.pdf
+ER  -
+
+TY  - COMP
+TI  - Linux Programmer's Manual: clone(2), fork(2), pthreads(7)
+AU  - Linux man-pages project
+PB  - kernel.org
+PY  - 2024
+UR  - https://man7.org/linux/man-pages/
+ER  -
+
+TY  - CONF
+AU  - Pai, Vivek S.
+AU  - Druschel, Peter
+AU  - Zwaenepoel, Willy
+TI  - Flash: An efficient and portable Web server
+T2  - Proceedings of the USENIX Annual Technical Conference
+SP  - 199
+EP  - 212
+PY  - 1999
+L1  - S:\Works\Projects\os-process-vs-thread\papers\pai-1999-flash.pdf
+ER  -
+
+TY  - CONF
+AU  - von Behren, Rob
+AU  - Condit, Jeremy
+AU  - Brewer, Eric
+TI  - Why events are a bad idea (for high-concurrency servers)
+T2  - Proceedings of the Workshop on Hot Topics in Operating Systems (HotOS IX)
+PY  - 2003
+L1  - S:\Works\Projects\os-process-vs-thread\papers\vonbehren-2003-events.pdf
+ER  -
+
+TY  - CONF
+AU  - Welsh, Matt
+AU  - Culler, David
+AU  - Brewer, Eric
+TI  - SEDA: An architecture for well-conditioned, scalable Internet services
+T2  - Proceedings of the ACM Symposium on Operating Systems Principles (SOSP)
+SP  - 230
+EP  - 243
+PY  - 2001
+DO  - 10.1145/502034.502057
+L1  - S:\Works\Projects\os-process-vs-thread\papers\welsh-2001-seda.pdf
+ER  -
+
+TY  - CONF
+AU  - Boyd-Wickizer, Silas
+AU  - Clements, Austin T.
+AU  - Mao, Yandong
+AU  - Pesterev, Aleksey
+AU  - Kaashoek, M. Frans
+AU  - Morris, Robert
+AU  - Zeldovich, Nickolai
+TI  - An analysis of Linux scalability to many cores
+T2  - Proceedings of the USENIX Symposium on Operating Systems Design and Implementation (OSDI)
+PY  - 2010
+L1  - S:\Works\Projects\os-process-vs-thread\papers\boyd-wickizer-2010-linux-scalability.pdf
+ER  -
+
+TY  - CONF
+AU  - Lozi, Jean-Pierre
+AU  - Lepers, Baptiste
+AU  - Funston, Justin
+AU  - Gaud, Fabien
+AU  - Quema, Vivien
+AU  - Fedorova, Alexandra
+TI  - The Linux scheduler: a decade of wasted cores
+T2  - Proceedings of the European Conference on Computer Systems (EuroSys)
+PY  - 2016
+DO  - 10.1145/2901318.2901326
+L1  - S:\Works\Projects\os-process-vs-thread\papers\lozi-2016-wasted-cores.pdf
+ER  -
+
+TY  - ELEC
+AU  - Wouters, Thomas
+AU  - Page, Matt
+AU  - Gross, Sam
+TI  - PEP 779 - Criteria for supported status for free-threaded Python
+T2  - Python Enhancement Proposals
+PY  - 2025
+UR  - https://peps.python.org/pep-0779/
+ER  -
+
+TY  - CONF
+AU  - Litton, James
+AU  - Vahldiek-Oberwagner, Anjo
+AU  - Elnikety, Eslam
+AU  - Garg, Deepak
+AU  - Bhattacharjee, Bobby
+AU  - Druschel, Peter
+TI  - Light-weight contexts: an OS abstraction for safety and performance
+T2  - Proceedings of the USENIX Symposium on Operating Systems Design and Implementation (OSDI)
+PY  - 2016
+L1  - S:\Works\Projects\os-process-vs-thread\papers\litton-2016-lwc.pdf
+ER  -
+
+TY  - CONF
+AU  - Agache, Alexandru
+AU  - Brooker, Marc
+AU  - Iordache, Andreea
+AU  - Liguori, Anthony
+AU  - Neugebauer, Rolf
+AU  - Piwonka, Phil
+AU  - Popa, Diana-Maria
+TI  - Firecracker: lightweight virtualization for serverless applications
+T2  - Proceedings of the USENIX Symposium on Networked Systems Design and Implementation (NSDI)
+PY  - 2020
+UR  - https://www.usenix.org/conference/nsdi20/presentation/agache
+L1  - S:\Works\Projects\os-process-vs-thread\papers\agache-2020-firecracker.pdf
+ER  -
+
+TY  - CONF
+AU  - Hoefler, Torsten
+AU  - Belli, Roberto
+TI  - Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results
+T2  - Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC15)
+PY  - 2015
+DO  - 10.1145/2807591.2807644
+UR  - https://doi.org/10.1145/2807591.2807644
+ER  -
+
+TY  - CONF
+AU  - Kalibera, Tomas
+AU  - Jones, Richard
+TI  - Rigorous benchmarking in reasonable time
+T2  - Proceedings of the ACM SIGPLAN International Symposium on Memory Management (ISMM)
+SP  - 63
+EP  - 74
+PY  - 2013
+DO  - 10.1145/2464157.2464160
+UR  - https://doi.org/10.1145/2464157.2464160
+ER  -
+
+TY  - ELEC
+AU  - Heiser, Gernot
+TI  - Systems benchmarking crimes
+PB  - UNSW Sydney
+PY  - 2020
+UR  - https://gernot-heiser.org/benchmarking-crimes.html
+ER  -
+
+TY  - ELEC
+AU  - Bendersky, Eli
+TI  - Launching Linux threads and processes with clone
+PY  - 2018
+UR  - https://eli.thegreenplace.net/2018/launching-linux-threads-and-processes-with-clone/
+ER  -
+
+TY  - CONF
+AU  - Zhao, Kaiyang
+AU  - Gong, Sishuai
+AU  - Fonseca, Pedro
+TI  - On-demand-fork: a microsecond fork for memory-intensive and latency-sensitive applications
+T2  - Proc. EuroSys
+PY  - 2021
+SP  - 540
+EP  - 555
+DO  - 10.1145/3447786.3456258
+ER  -
+
+TY  - CONF
+AU  - Vögele, Manuel
+AU  - Thomas, Christopher
+AU  - Hönig, Timo
+TI  - Spork: A posix_spawn you can use as a fork
+T2  - Proc. HotOS
+PY  - 2025
+SP  - 96
+EP  - 102
+DO  - 10.1145/3713082.3730396
+ER  -
